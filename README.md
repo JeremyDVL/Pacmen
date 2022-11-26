@@ -2,7 +2,7 @@
 Create and Move Pacmen
 
 <p align="center">
-  <img width="500" height="300" src="PacMan1"
+  <img width="300" height="300" src="Images/PacMan1.png"
 </p>
 
 ## <ins>What it does
