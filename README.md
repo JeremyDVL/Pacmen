@@ -7,15 +7,20 @@ Create and Move Pacmen
 
 ## <ins>What it does
 
-The animated bus route follows a marker along a local bus route.  I made several improvements over the original including a create marker function that creates a marker at each point on the map.  I also animated a second marker that moves to each point on the map as well as adding to the function to recenter the map at each movement.  I also used a more readable map and button style.
+Uses JS code that creates Pacman each time a button is clicked in conjuction with HTML.
 
 ## <ins>How to Run
 
-Load page and click the button in the top left hand corner.
+Load page and click the Add PacMan button in the top left hand corner to add a pacman then click the Start Game button to make them move.  Add as many Pacmen as you like and click the Start Game button to make them move faster.  Reload browser to restart from zero Pacmen.
+
+<p align="center">
+  <img width="400" height="300" src="Pacmen-Buttons.jpg"
+</p>
+
 
 ## <ins>Future improvements
 
-There are many future improvements that would be useful to the user including a more descriptive icons and markers to show the user where items are on the map.  A key to add descriptions to the icons.  Navigation controls so the user can zoom and pan.  A dropdown so the user might be able to choose multiple routes.
+Future improvements would be to add a switch statement and random feature to add different size and color Pacmen with the button Click and add a reset button instead of having to reload the browser to reset the game.
 
 ## <ins>License
 
